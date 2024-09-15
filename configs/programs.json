@@ -189,20 +189,6 @@
 		"usage-level": 4
 	},
 	{
-		"name": "Adobe Acrobat",
-		"url": "https://www.adobe.com/acrobat.html",
-		"category": "office", 
-		"description": "pdf suite",
-		"usage-level": 4
-	},
-	{
-		"name": "Iriun Webcam",
-		"url": "https://iriun.com/",
-		"category": "multimedia", 
-		"description": "webcam software",
-		"usage-level": 4
-	},
-	{
 		"name": "Microsoft Office",
 		"url": "https://www.microsoft.com/pl-pl/download/office.aspx",
 		"category": "office", 
@@ -500,7 +486,14 @@
 		"name": "ZUOYA GMK67 Keyboard Driver",
 		"url": "https://gist.github.com/Joao-Peterson/f70257a08c6c2ba1dc353954bef9fe65",
 		"category": "system information & configuration",
-		"description": "A driver for my zuoya gmk67 keyboard",
+		"description": "driver for my zuoya gmk67 keyboard",
+		"usage-level": null
+	}
+	{
+		"name": "AutoHotkey",
+		"url": "https://www.autohotkey.com/",
+		"category": "utilities",
+		"description": "keyboard shortcuts utility",
 		"usage-level": null
 	}
 ]
