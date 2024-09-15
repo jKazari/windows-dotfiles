@@ -1,0 +1,35 @@
+{
+	"audio": [
+		"NVIDIA High Definition Audio",
+		"HyperX Virtual Surround Sound",
+		"HD Pro Webcam C920",
+		"NVIDIA Virtual Audio Device (Wave Extensible) (WDM)",
+		"High Definition Audio Device",
+		"Iriun Webcam"
+	],
+	"display": [
+		"NVIDIA GeForce RTX 2070 SUPER"
+	],
+	"monitor": [
+		"DELL U2723QE (DP)"
+	],
+	"keyboard": [
+		"HID Keyboard Device"
+	],
+	"mouse": [
+		"Razer DeathAdder Elite"
+	],
+	"connectivity": [
+		"Realtek PCIe GbE Family Controller"
+	],
+	"processor": [
+		"AMD Ryzen 5 3600X 6-Core Processor"
+	],
+	"security-device": [
+		"AMD PSP 11.0 Device"
+	],
+	"storage": [
+		"KINGSTON SNV2S1000G",
+		"PC400 NVMe SK hynix 512GB"
+	]
+}

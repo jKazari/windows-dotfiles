@@ -1,0 +1,812 @@
+{
+	"Bookmarks panel": [
+		{
+			"url": "https://calendar.google.com/calendar/",
+			"add_date": "1613078401"
+		},
+		{
+			"url": "https://mail.google.com/",
+			"add_date": "1684315089"
+		},
+		{
+			"url": "https://drive.google.com/drive/my-drive",
+			"add_date": "1685650532"
+		},
+		{
+			"url": "https://translate.google.com/",
+			"add_date": "1634395658"
+		},
+		{
+			"url": "https://www.youtube.com/?gl=PL&hl=pl",
+			"add_date": "1562065985"
+		},
+		{
+			"url": "https://www.reddit.com/",
+			"add_date": "1684315129"
+		},
+		{
+			"url": "https://vault.bitwarden.com/#/vault",
+			"add_date": "1613064254"
+		}
+	],
+	"All bookmarks": {
+		"University": [
+			{
+				"name": "MojaPG",
+				"url": "https://moja.pg.edu.pl/",
+				"add_date": "1684315406"
+			},
+			{
+				"name": "eNauczanie",
+				"url": "https://enauczanie.pg.edu.pl/",
+				"add_date": "1684315419"
+			},
+			{
+				"name": "Poczta",
+				"url": "https://outlook.office.com/mail/",
+				"add_date": "1707680808"
+			},
+			{
+				"name": "Biblioteka",
+				"url": "https://katalogbpg.pg.edu.pl/discovery/search?vid=48FAR_PGD:48PGD",
+				"add_date": "1707680843"
+			},
+			{
+				"name": "SIS",
+				"url": "https://sis.eti.pg.edu.pl/",
+				"add_date": "1684315445"
+			},
+			{
+				"name": "STOS",
+				"url": "https://stos.eti.pg.gda.pl/",
+				"add_date": "1684315458"
+			},
+			{
+				"name": "Campus map",
+				"url": "https://campus.pg.edu.pl/",
+				"add_date": "1684315474"
+			}
+		],
+		"Government": [
+			{
+				"name": "Portal Gov.pl",
+				"url": "https://www.gov.pl/",
+				"add_date": "1722209785"
+			},
+			{
+				"name": "Internetowe Konto Pacjenta",
+				"url": "https://pacjent.gov.pl/ikp/",
+				"add_date": "1722209477"
+			},
+			{
+				"name": "Urząd skarbowy",
+				"url": "https://urzadskarbowy.gov.pl/services",
+				"add_date": "1722209738"
+			},
+			{
+				"name": "ZUS",
+				"url": "https://www.zus.pl/portal/obszar-ogolny.npi",
+				"add_date": "1722209855"
+			}
+		],
+		"Piracy": {
+			"Indexes": [
+				{
+					"name": "r/Piracy Megathread",
+					"url": "https://www.reddit.com/r/Piracy/wiki/megathread/",
+					"add_date": "1724777162"
+				},
+				{
+					"name": "freemediaheckyeah",
+					"url": "https://fmhy.net/",
+					"add_date": "1724777647"
+				},
+				{
+					"name": "fmhy streaming",
+					"url": "https://fmhy.net/videopiracyguide#streaming-sites",
+					"add_date": "1724778133"
+				},
+				{
+					"name": "fmhy torrent sites",
+					"url": "https://fmhy.net/videopiracyguide#torrent-sites",
+					"add_date": "1724777729"
+				}
+			],
+			"Anime Indexes": [
+				{
+					"name": "r/AnimePiracy Wiki",
+					"url": "https://thewiki.moe/",
+					"add_date": "1724777193"
+				},
+				{
+					"name": "fmhy anime streaming",
+					"url": "https://fmhy.net/videopiracyguide#anime-streaming",
+					"add_date": "1724777668"
+				},
+				{
+					"name": "fmhy anime torrenting",
+					"url": "https://fmhy.net/videopiracyguide#anime-torrenting",
+					"add_date": "1724778562"
+				},
+				{
+					"name": "EverythingMoe",
+					"url": "https://everythingmoe.com/",
+					"add_date": "1724777863"
+				},
+				{
+					"name": "The Index",
+					"url": "https://theindex.moe/",
+					"add_date": "1724777401"
+				},
+				{
+					"name": "Wotaku",
+					"url": "https://wotaku.wiki/websites",
+					"add_date": "1724777841"
+				},
+				{
+					"name": "SeaDex",
+					"url": "https://releases.moe/",
+					"add_date": "1724777337"
+				}
+			],
+			"Anime Streaming": [
+				{
+					"name": "HiAnime",
+					"url": "https://hianime.to/",
+					"add_date": "1724775680"
+				},
+				{
+					"name": "AniWatch",
+					"url": "https://aniwatchtv.to/",
+					"add_date": "1724775725"
+				},
+				{
+					"name": "AniCrush",
+					"url": "https://anicrush.to/",
+					"add_date": "1724775808"
+				},
+				{
+					"name": "YugenAnime",
+					"url": "https://yugenanime.tv/",
+					"add_date": "1724775817"
+				}
+			],
+			"Anime Torrents": [
+				{
+					"name": "Nyaa",
+					"url": "https://nyaa.si/",
+					"add_date": "1684315840"
+				}
+			],
+			"Series/Movies Streaming": [
+				{
+					"name": "TheBigHeap",
+					"url": "https://thebigheap.com/",
+					"add_date": "1721161005"
+				},
+				{
+					"name": "Braflix",
+					"url": "https://www.braflix.ru/",
+					"add_date": "1724778076"
+				},
+				{
+					"name": "StreamFlix",
+					"url": "https://watch.streamflix.one/",
+					"add_date": "1724778085"
+				},
+				{
+					"name": "BFlix",
+					"url": "https://bflix.gg/",
+					"add_date": "1723646269"
+				},
+				{
+					"name": "123Movies",
+					"url": "https://ww2.123moviesfree.net/",
+					"add_date": "1687567867"
+				},
+				{
+					"name": "VidSrc",
+					"url": "https://vidsrc.net/",
+					"add_date": "1723646236"
+				}
+			],
+			"Series/Movies Torrents": [
+				{
+					"name": "Pirate Bay",
+					"url": "https://thepiratebay10.org/",
+					"add_date": "1684315851"
+				},
+				{
+					"name": "1337x",
+					"url": "https://www.1337xx.to/",
+					"add_date": "1684315831"
+				},
+				{
+					"name": "Yify",
+					"url": "https://ww1.yify.club/",
+					"add_date": "1684315864"
+				}
+			],
+			"Books": [
+				{
+					"name": "Library Genesis",
+					"url": "https://libgen.is/",
+					"add_date": "1719774731"
+				},
+				{
+					"name": "Z-library",
+					"url": "https://lib-2he72e2minhlrqrn35dpqcck.1lib.cz/",
+					"add_date": "1684315803"
+				},
+				{
+					"name": "Docer",
+					"url": "https://docer.pl/",
+					"add_date": "1684315812"
+				}
+			],
+			"Manga": [
+				{
+					"name": "MangaFire",
+					"url": "https://mangafire.to/",
+					"add_date": "1684315706"
+				},
+				{
+					"name": "MangaDex",
+					"url": "https://mangadex.org/",
+					"add_date": "1684315763"
+				},
+				{
+					"name": "MangaReader",
+					"url": "https://mangareader.to/",
+					"add_date": "1684315755"
+				}
+			],
+			"Hentai": [
+				{
+					"name": "nhentai",
+					"url": "https://nhentai.net/",
+					"add_date": "1726074789"
+				},
+				{
+					"name": "hitomi.la",
+					"url": "https://hitomi.la/",
+					"add_date": "1726074798"
+				},
+				{
+					"name": "e-hentai",
+					"url": "https://e-hentai.org/",
+					"add_date": "1726074807"
+				}
+			]
+		},
+		"Converters": [
+			{
+				"name": "Twitter",
+				"url": "https://twittervideodownloader.com/",
+				"add_date": "1684315888"
+			},
+			{
+				"name": "YouTube",
+				"url": "https://yt1s.com/en454/youtube-to-mp4",
+				"add_date": "1684315897"
+			},
+			{
+				"name": "YouTube",
+				"url": "https://www.flvto.biz/nesgn/",
+				"add_date": "1684315905"
+			},
+			{
+				"name": "Reddit",
+				"url": "https://rapidsave.com/",
+				"add_date": "1684315914"
+			}
+		],
+		"Mathematics": [
+			{
+				"name": "WolframAlpha",
+				"url": "https://www.wolframalpha.com/",
+				"add_date": "1684315967"
+			},
+			{
+				"name": "Wolfree",
+				"url": "https://wolfreealpha.onrender.com/input/?i=",
+				"add_date": "1718953981"
+			},
+			{
+				"name": "Wolfree",
+				"url": "https://wolfreealpha.gitlab.io/input/",
+				"add_date": "1696697150"
+			},
+			{
+				"name": "Mathematica",
+				"url": "https://www.wolfram.com/mathematica/",
+				"add_date": "1684315978"
+			},
+			{
+				"name": "Symbolab",
+				"url": "https://www.symbolab.com/",
+				"add_date": "1684315987"
+			},
+			{
+				"name": "Geogebra",
+				"url": "https://www.geogebra.org/calculator",
+				"add_date": "1684316000"
+			},
+			{
+				"name": "Desmos",
+				"url": "https://www.desmos.com/calculator",
+				"add_date": "1684316010"
+			},
+			{
+				"name": "MathDF",
+				"url": "https://mathdf.com/",
+				"add_date": "1684316026"
+			},
+			{
+				"name": "MatrixCalc",
+				"url": "https://matrixcalc.org/",
+				"add_date": "1684316044"
+			}
+		],
+		"Gaming": {
+			"Genshin Impact": [
+				{
+					"name": "Seelie",
+					"url": "https://seelie.me/",
+					"add_date": "1684316148"
+				},
+				{
+					"name": "Map",
+					"url": "https://mapgenie.io/genshin-impact",
+					"add_date": "1684316193"
+				},
+				{
+					"name": "Resources map",
+					"url": "https://genshin-impact-map.appsample.com/",
+					"add_date": "1684316157"
+				},
+				{
+					"name": "Teyvat Interactive Map - HoYoLAB",
+					"url": "https://act.hoyolab.com/ys/app/interactive-map/index.html?utm_source=seelie_me&lang=en-us#/map/2?shown_types=184,17,44,45,46,18,64\u00a2er=2864.00,-2489.00&zoom=-1.00",
+					"add_date": "1703114468"
+				},
+				{
+					"name": "Enka",
+					"url": "https://enka.network/u/Kazarii/2n8NW4/10000046/2966258/",
+					"add_date": "1706964993"
+				},
+				{
+					"name": "Daily Check-In",
+					"url": "https://act.hoyolab.com/ys/event/signin-sea-v3/index.html?act_id=e202102251931481",
+					"add_date": "1706965050"
+				}
+			],
+			"Gwent": [
+				{
+					"name": "PlayGwent",
+					"url": "https://www.playgwent.com/en/decks",
+					"add_date": "1684316217"
+				},
+				{
+					"name": "TeamAretuza",
+					"url": "https://teamaretuza.com/",
+					"add_date": "1684316227"
+				},
+				{
+					"name": "GwentPro",
+					"url": "https://gwent.pro/",
+					"add_date": "1684316239"
+				},
+				{
+					"name": "Rank progression",
+					"url": "https://support.cdprojektred.com/en/gwent/pc/gwent-gameplay/issue/1105/ranked-mode-progression#:~:text=There%20are%2031%20Ranks%20in,filled%20in%20for%20winning%20matches",
+					"add_date": "1684316247"
+				}
+			]
+		},
+		"Japanese": {
+			"Dictionaries": [
+				{
+					"name": "Jisho",
+					"url": "https://jisho.org/",
+					"add_date": "1684316526"
+				},
+				{
+					"name": "Yomichan",
+					"url": "https://bit.ly/3PNHrwG",
+					"add_date": "1684316540"
+				},
+				{
+					"name": "Weblio",
+					"url": "https://ejje.weblio.jp/",
+					"add_date": "1684316550"
+				},
+				{
+					"name": "DeepL",
+					"url": "https://www.deepl.com/translator",
+					"add_date": "1684316559"
+				}
+			],
+			"Structure": [
+				{
+					"name": "Cure Dolly",
+					"url": "https://www.youtube.com/channel/UCkdmU8hGK4Fg3LghTVtKltQ",
+					"add_date": "1684316580"
+				},
+				{
+					"name": "Bunpro",
+					"url": "https://bunpro.jp/",
+					"add_date": "1687895344"
+				}
+			],
+			"Immersion": [
+				{
+					"name": "mpv",
+					"url": "https://mpv.io/manual/master/",
+					"add_date": "1684316598"
+				},
+				{
+					"name": "Texthooker",
+					"url": "https://texthooker.com/",
+					"add_date": "1684316608"
+				},
+				{
+					"name": "Clipboard inserter",
+					"url": "https://bit.ly/3OQOi7e",
+					"add_date": "1684316620"
+				},
+				{
+					"name": "Nihongo con Teppei",
+					"url": "https://nihongoconteppei.com/",
+					"add_date": "1684316636"
+				},
+				{
+					"name": "Yuyu podcast",
+					"url": "https://www.youtube.com/channel/UC8dWfySP_cKDMFj6aFfQbFA",
+					"add_date": "1684316650"
+				},
+				{
+					"name": "Airfriend",
+					"url": "https://airfriend.ai/ja/",
+					"add_date": "1684316659"
+				}
+			],
+			"Vocabulary & kanji": [
+				{
+					"name": "Anki",
+					"url": "https://apps.ankiweb.net/",
+					"add_date": "1684316683"
+				},
+				{
+					"name": "Kanji garden",
+					"url": "https://kanji.garden/",
+					"add_date": "1684316696"
+				},
+				{
+					"name": "WaniKani",
+					"url": "https://www.wanikani.com/",
+					"add_date": "1684316703"
+				},
+				{
+					"name": "JPDB",
+					"url": "https://jpdb.io/",
+					"add_date": "1684316714"
+				},
+				{
+					"name": "Koohi",
+					"url": "https://koohi.cafe/",
+					"add_date": "1684316722"
+				},
+				{
+					"name": "Core 2.3k deck",
+					"url": "https://anacreondjt.gitlab.io/docs/coredeck/",
+					"add_date": "1684316773"
+				}
+			],
+			"Databases": [
+				{
+					"name": "Raw anime subtitles",
+					"url": "https://itazuraneko.neocities.org/library/sub",
+					"add_date": "1684316819"
+				},
+				{
+					"name": "Raw manga",
+					"url": "https://itazuraneko.neocities.org/library/manga/mangalist#new",
+					"add_date": "1684316830"
+				},
+				{
+					"name": "Audiobooks",
+					"url": "https://bit.ly/3JqqN44",
+					"add_date": "1684316800"
+				},
+				{
+					"name": "Books",
+					"url": "https://tadoku.org/japanese/en/free-books-en/",
+					"add_date": "1684316809"
+				}
+			],
+			"Websites": [
+				{
+					"name": "CrunchyNihongo",
+					"url": "https://crunchynihongo.com/",
+					"add_date": "1684316860"
+				},
+				{
+					"name": "Tofugu",
+					"url": "https://www.tofugu.com/",
+					"add_date": "1684316867"
+				},
+				{
+					"name": "AJATT",
+					"url": "http://www.alljapaneseallthetime.com/blog/",
+					"add_date": "1684316874"
+				},
+				{
+					"name": "Maggie Sensei",
+					"url": "https://maggiesensei.com/index-main-lessons/",
+					"add_date": "1684316881"
+				}
+			],
+			"Guides": [
+				{
+					"name": "Tae Kim",
+					"url": "https://itazuraneko.neocities.org/grammar/taekim",
+					"add_date": "1684316913"
+				},
+				{
+					"name": "Jo-Mako",
+					"url": "https://sites.google.com/view/jo-mako/home",
+					"add_date": "1684316920"
+				},
+				{
+					"name": "TheMoeWay",
+					"url": "https://learnjapanese.moe/guide/",
+					"add_date": "1684316929"
+				},
+				{
+					"name": "AnimeCards",
+					"url": "https://animecards.site/learningjapanese/",
+					"add_date": "1684316937"
+				},
+				{
+					"name": "Tofugu",
+					"url": "https://www.tofugu.com/learn-japanese/",
+					"add_date": "1684316955"
+				}
+			],
+			"JLPT": [
+				{
+					"name": "JLPT online simulator",
+					"url": "https://www.unagibun.com/jlpt-online/",
+					"add_date": "1684316986"
+				},
+				{
+					"name": "JLPT sensei",
+					"url": "https://jlptsensei.com/",
+					"add_date": "1684316998"
+				},
+				{
+					"name": "JLPT resources",
+					"url": "http://www.passjapanesetest.com/jlpt-resources/",
+					"add_date": "1684317010"
+				}
+			],
+			"Other": [
+				{
+					"name": "Nobiru",
+					"url": "https://nobiru.pl/sklep/",
+					"add_date": "1684317034"
+				},
+				{
+					"name": "Hirogaru",
+					"url": "https://hirogaru-nihongo.jp/en/",
+					"add_date": "1684317043"
+				},
+				{
+					"name": "Kanji list",
+					"url": "https://sakuratips.com/2021/05/07/a-list-of-kanji/",
+					"add_date": "1684317054"
+				},
+				{
+					"name": "Reading resources",
+					"url": "https://www.reddit.com/r/LearnJapanese/comments/t19m38/lets_read_%E3%81%8B%E3%81%90%E3%82%84%E3%81%B2%E3%82%81_links_to_texts_n5_up_to_n1/",
+					"add_date": "1684317064"
+				}
+			]
+		},
+		"Korepetycje": {
+			"Uncategorized": [
+				{
+					"name": "Tablice maturalne",
+					"url": "https://www.oke.waw.pl/files/oke_waw_3498wybrane_wzory_matematyczne_EM2023.pdf.pdf",
+					"add_date": "1684316280"
+				}
+			],
+			"Notatki": [
+				{
+					"name": "Liceum",
+					"url": "https://www.notion.so/kazari/Liceum-f785056208354b3b9ce160931da74879",
+					"add_date": "1684316293"
+				},
+				{
+					"name": "Elementarna",
+					"url": "https://www.notion.so/kazari/Matematyka-elementarna-0875cdb3a27d4492be56c7bd9c836dd2",
+					"add_date": "1684316302"
+				},
+				{
+					"name": "Analiza",
+					"url": "https://www.notion.so/kazari/Analiza-matematyczna-082bccfa62ab4cf7affe7e3c5e3a79f2",
+					"add_date": "1684316309"
+				},
+				{
+					"name": "Algebra",
+					"url": "https://www.notion.so/kazari/Algebra-liniowa-7e5ca94260dc49d89ed720a8cbd781a0",
+					"add_date": "1684316318"
+				}
+			],
+			"Zadania": [
+				{
+					"name": "Zadania info",
+					"url": "https://zadania.info/",
+					"add_date": "1684316340"
+				},
+				{
+					"name": "Howgh",
+					"url": "https://howgh.pl/",
+					"add_date": "1684316359"
+				},
+				{
+					"name": "Matemaks",
+					"url": "https://www.matemaks.pl/matura-rozszerzona-zadania-cke.html",
+					"add_date": "1684316372"
+				},
+				{
+					"name": "Arkusze maturalne",
+					"url": "https://arkusze.pl/matematyka-matura-poziom-rozszerzony/",
+					"add_date": "1696697344"
+				}
+			]
+		},
+		"Other": {
+			"Wallpapers": [
+				{
+					"name": "UHD Wallpaper",
+					"url": "https://www.uhdpaper.com/",
+					"add_date": "1684317474"
+				},
+				{
+					"name": "WallpaperAccess",
+					"url": "https://wallpaperaccess.com/blue-anime-aesthetic",
+					"add_date": "1684317482"
+				},
+				{
+					"name": "Peakpx",
+					"url": "https://www.peakpx.com/",
+					"add_date": "1687354812"
+				}
+			],
+			"Fonts": [
+				{
+					"name": "FontFlipper",
+					"url": "https://fontflipper.com/upload",
+					"add_date": "1684317285"
+				},
+				{
+					"name": "NerdFonts",
+					"url": "https://www.nerdfonts.com/",
+					"add_date": "1684317293"
+				},
+				{
+					"name": "FontSquirrel",
+					"url": "https://www.fontsquirrel.com/",
+					"add_date": "1684317304"
+				},
+				{
+					"name": "Japanese fonts",
+					"url": "https://www.freejapanesefont.com/",
+					"add_date": "1684317312"
+				}
+			],
+			"Colors & gradients": [
+				{
+					"name": "Coolors",
+					"url": "https://coolors.co/",
+					"add_date": "1684317342"
+				},
+				{
+					"name": "Color wheel",
+					"url": "https://color.adobe.com/pl/create/color-wheel",
+					"add_date": "1684317392"
+				},
+				{
+					"name": "UI Gradients",
+					"url": "https://uigradients.com/#PunYeta",
+					"add_date": "1684317401"
+				},
+				{
+					"name": "Color Hex",
+					"url": "https://www.colorhexa.com/",
+					"add_date": "1709578923"
+				}
+			],
+			"Presentations": [
+				{
+					"name": "SlidesGo",
+					"url": "https://slidesgo.com/",
+					"add_date": "1684317423"
+				},
+				{
+					"name": "StorySet",
+					"url": "https://storyset.com/",
+					"add_date": "1684317430"
+				}
+			],
+			"Website": [
+				{
+					"name": "Cloudflare",
+					"url": "https://dash.cloudflare.com/2648b5b03958dd019d0fd545195e847c/jkazari.com",
+					"add_date": "1661015410"
+				},
+				{
+					"name": "Fruition",
+					"url": "https://fruitionsite.com/",
+					"add_date": "1661015422"
+				},
+				{
+					"name": "Namecheap",
+					"url": "https://ap.www.namecheap.com/",
+					"add_date": "1661015497"
+				},
+				{
+					"name": "Kazari's Website",
+					"url": "https://jkazari.com/",
+					"add_date": "1661015503"
+				}
+			],
+			"Typing": [
+				{
+					"name": "Monkeytype",
+					"url": "https://monkeytype.com/",
+					"add_date": "1685352990"
+				},
+				{
+					"name": "Keybr",
+					"url": "https://www.keybr.com/",
+					"add_date": "1685352981"
+				}
+			],
+			"Uncategorized": [
+				{
+					"name": "URL shortener",
+					"url": "https://bitly.com/",
+					"add_date": "1684317262"
+				},
+				{
+					"name": "Photomosh",
+					"url": "https://photomosh.com/",
+					"add_date": "1684317514"
+				},
+				{
+					"name": "Gridzzly",
+					"url": "http://gridzzly.com/",
+					"add_date": "1684317523"
+				},
+				{
+					"name": "Mindfullness",
+					"url": "https://pursuitofmindfulness.com/",
+					"add_date": "1684317563"
+				},
+				{
+					"name": "Twitter manager",
+					"url": "https://twitterlistmanager.com/",
+					"add_date": "1684317583"
+				},
+				{
+					"name": "edx",
+					"url": "https://www.edx.org/",
+					"add_date": "1684317592"
+				}
+			]
+		}
+	}
+}

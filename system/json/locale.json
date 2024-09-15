@@ -1,0 +1,28 @@
+{
+	"display-language": "English (United States)",
+	"input-language": "English (United States) - Polish (Programmers)",
+	"installed-languages": [
+		"English (United States)",
+		"Japanese"
+	],
+	"region": "United Kingdom",
+	"time-zone": "UTC+01:00",
+	"format": {
+		"calendar": "Gregorian",
+		"first-day-of-the-week": "Monday",
+		"short-date": "yyyy-MM-dd",
+		"long-date": "dddd, MMMM dd, yyyy",
+		"short-time": "HH:mm",
+		"long-time": "HH:mm:ss"
+	},
+	"keyboard-layouts": [
+		{
+			"language": "English (United States)",
+			"layout": "Polish (Programmers)"
+		},
+		{
+			"language": "Japanese",
+			"layout": "Microsoft IME"
+		}
+	]
+}

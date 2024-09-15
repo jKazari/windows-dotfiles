@@ -1,0 +1,27 @@
+{
+	"settings": {
+		"account-security": {
+			"unlock-with-biometrics": false,
+			"unlock-with-pin": true,
+			"vault-timeout": "On browser restart",
+			"vault-timeout-action": "Lock"
+		},
+		"autofill": {
+			"show-autofill-menu-on-form-fields": "Off",
+			"make-bitwarden-your-default-password-manager": true,
+			"autofill-on-page-load": false
+		},
+		"notifications": {
+			"ask-to-save-and-use-passkeys": true,
+			"ask-to-add-login": true,
+			"ask-to-update-existing-login": true
+		}
+	},
+	"generator": {
+		"password-type": "Passphrase",
+		"number-of-words": 4,
+		"word-separator": "-",
+		"capitalize": true,
+		"include-number": true
+	}
+}

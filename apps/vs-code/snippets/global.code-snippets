@@ -1,0 +1,15 @@
+{
+	"Meta snippet": {
+		"prefix": "snip",
+		"body": [
+			"\"$1\": {",
+			"   \"prefix\": \"$2\",",
+			"   \"body\": [",
+			"      $0",
+			"   ],",
+			"   \"description\": \"$3\"",
+			"},"
+		],
+		"description": "A snippet to write snippets"
+	}
+}

@@ -1,0 +1,42 @@
+[
+	{
+		"name": "uBlock Origin",
+		"url": "https://chromewebstore.google.com/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm"
+	},
+	{
+		"name": "Bitwarden",
+		"url": "https://chromewebstore.google.com/detail/bitwarden-password-manage/nngceckbapebfimnlniiiahkandclblb"
+	},
+	{
+		"name": "Dark Reader",
+		"url": "https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh"
+	},
+	{
+		"name": "Google Translate",
+		"url": "https://chromewebstore.google.com/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb"
+	},
+	{
+		"name": "Tampermonkey",
+		"url": "https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo"
+	},
+	{
+		"name": "Calm",
+		"url": "https://chromewebstore.google.com/detail/calm-style-your-new-tab/nlbogimjpbkdemejcldggipfglbcflmn"
+	},
+	{
+		"name": "Pixiv Toolkit",
+		"url": "https://chromewebstore.google.com/detail/pixiv-toolkit-next/ajlcnbbeidbackfknkgknjefhmbngdnj"
+	},
+	{
+		"name": "PocketTube",
+		"url": "https://chromewebstore.google.com/detail/pockettube-youtube-subscr/kdmnjgijlmjgmimahnillepgcgeemffb"
+	},
+	{
+		"name": "SponsorBlock",
+		"url": "https://chromewebstore.google.com/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone"
+	},
+	{
+		"name": "YouTube Auto HD",
+		"url": "https://chromewebstore.google.com/detail/youtube-auto-hd-+-fps/fcphghnknhkimeagdglkljinmpbagone"
+	}
+]

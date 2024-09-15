@@ -1,0 +1,10 @@
+{
+  "accentColor": "#8ac0ff",
+  "textFontFamily": "",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "big-latex"
+  ]
+}

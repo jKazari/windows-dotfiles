@@ -1,0 +1,31 @@
+{
+	"custom-fonts": [
+		"Braveold",
+		"CaskaydiaCove",
+		"Chihaya Jyun",
+		"Umeboshi",
+		"Minecraft"
+	],
+	"japanese-fonts": [
+		"BIZ UDGothic",
+		"BIZ UDMincho",
+		"BIZ UDPGothic",
+		"BIZ UDPMincho",
+		"Meiryo",
+		"Meiryo UI",
+		"MS Gothic",
+		"MS Mincho",
+		"MS PGothic",
+		"MS PMincho",
+		"MS UI Gothic",
+		"UD Digi Kyokasho N-B",
+		"UD Digi Kyokasho NK-B",
+		"UD Digi Kyokasho NK-R",
+		"UD Digi Kyokasho NP-B",
+		"UD Digi Kyokasho NP-R",
+		"UD Digi Kyokasho N-R",
+		"Yu Gothic",
+		"Yu Gothic UI",
+		"Yu Mincho"
+	]
+}

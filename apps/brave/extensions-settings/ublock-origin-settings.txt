@@ -1,0 +1,49 @@
+{
+  "timeStamp": 1726369916827,
+  "version": "1.59.0",
+  "userSettings": {
+    "importedLists": [],
+    "popupPanelSections": 15
+  },
+  "selectedFilterLists": [
+    "ublock-quick-fixes",
+    "user-filters",
+    "assets.json",
+    "public_suffix_list.dat",
+    "ublock-badlists",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-unbreak",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "plowe-0",
+    "POL-0",
+    "POL-2"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "2023.ranking.perspektywy.pl",
+    "about-scheme",
+    "anjsub.com",
+    "chrome-extension-scheme",
+    "docer.pl",
+    "doci.pl",
+    "edge-scheme",
+    "gg.deals",
+    "kobieta.dziennik.pl",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "player.pl",
+    "portal.abczdrowie.pl",
+    "vivaldi-scheme",
+    "www.cartelpress.com",
+    "www.netflix.com",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-strict-blocking: ablink.account.quizlet.com true\nno-strict-blocking: 9q2ykzh7.r.us-east-1.awstrack.me true\nno-strict-blocking: 2mcmg31d.r.us-east-1.awstrack.me true\nno-strict-blocking: trk.klclick1.com true\nno-strict-blocking: search-journal.onlyfuns.win true\nno-strict-blocking: p8h3stff.r.us-east-1.awstrack.me true\nno-strict-blocking: veles-swg.com true",
+  "userFilters": ""
+}
