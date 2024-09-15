@@ -488,7 +488,7 @@
 		"category": "system information & configuration",
 		"description": "driver for my zuoya gmk67 keyboard",
 		"usage-level": null
-	}
+	},
 	{
 		"name": "AutoHotkey",
 		"url": "https://www.autohotkey.com/",
