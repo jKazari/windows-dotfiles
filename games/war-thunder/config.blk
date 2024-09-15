@@ -1,0 +1,85 @@
+graphicsQuality:t="custom"
+softFx:b=yes
+
+video{
+  fonts:t="compact"
+  latency:i=1
+  vsync:b=no
+  adaptive_vsync:b=no
+  vrStreamerMode:b=no
+  dlssSharpness:i=0
+  resolution:t="3840 x 2160"
+  vreye:t="left"
+  dlssQuality:i=2
+  perfMetrics:i=1
+  postfx_antialiasing:t="fxaa"
+  compatibilityMode:b=no
+  mode:t="fullscreen"
+  windowed:b=no
+  temporalResolutionScale:r=1
+  xessQuality:i=-1
+  alpha_to_coverage:b=yes
+  monitor:t="auto"
+}
+
+graphics{
+  rendinstDistMul:r=2.2
+  physicsQuality:i=5
+  ssaa:r=4
+  dirtSubDiv:i=2
+  compatibilityShadowQuality:t="low"
+  riGpuObjects:b=yes
+  backgroundScale:r=2
+  shadowQuality:t="ultrahigh"
+  mirrorQuality:i=10
+  landquality:i=4
+  anisotropy:i=16
+  fxTarget:t="high"
+  waterEffectsQuality:t="high"
+  clipmapScale:r=1.5
+  advancedShore:b=yes
+  cloudsQuality:i=0
+  enableSuspensionAnimation:b=yes
+  tireTracksQuality:i=3
+  grassRadiusMul:r=1.8
+  panoramaResolution:i=4096
+  waterQuality:t="ultrahigh"
+  lenseFlares:b=yes
+  giQuality:t="high"
+  texquality:t="high"
+  fxDensityMul:r=1
+  lastClipSize:i=8192
+  displacementQuality:i=3
+  skyQuality:i=1
+  contactShadowsQuality:i=2
+}
+
+render{
+  staticShadowsOnEffects:b=yes
+  haze:b=yes
+  shadows:b=yes
+  selfReflection:b=yes
+  ssaoQuality:i=2
+  ssrQuality:i=2
+  rendinstGlobalShadows:b=yes
+}
+
+directx{
+  enableHdr:b=no
+  maxaa:i=0
+}
+
+gameplay{
+  enableVR:b=no
+}
+
+debug{
+  screenshotAsJpeg:b=yes
+  netLogerr:b=yes
+}
+
+sound{
+  speakerMode:t="speakers7.1"
+  fmod_sound_enable:b=yes
+  enable_mod:b=yes
+}
