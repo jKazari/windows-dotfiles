@@ -213,106 +213,92 @@
 		"name": "Python",
 		"url": "https://www.python.org/",
 		"category": "development", 
-		"description": "high level scripting programming language",
-		"usage-level": null
+		"description": "high level scripting programming language"
 	},
 	{
 		"name": "Java",
 		"url": "https://www.java.com/en/",
 		"category": "development", 
-		"description": "high level object oriented programming language",
-		"usage-level": null
+		"description": "high level object oriented programming language"
 	},
 	{
 		"name": "C++",
 		"url": null,
 		"category": "development", 
-		"description": "high level object oriented programming language",
-		"usage-level": null
+		"description": "high level object oriented programming language"
 	},
 	{
 		"name": "C",
 		"url": null,
 		"category": "development", 
-		"description": "low level procedural programming language",
-		"usage-level": null
+		"description": "low level procedural programming language"
 	},
 	{
 		"name": "GCC",
 		"url": "https://gcc.gnu.org/",
 		"category": "development", 
-		"description": "gnu c compiler",
-		"usage-level": null
+		"description": "gnu c compiler"
 	},
 	{
 		"name": "GDB",
 		"url": "https://www.gnu.org/savannah-checkouts/gnu/gdb/index.html",
 		"category": "development", 
-		"description": "gnu c debugger",
-		"usage-level": null
+		"description": "gnu c debugger"
 	},
 	{
 		"name": "CMake",
 		"url": "https://cmake.org/",
 		"category": "development", 
-		"description": "c and c++ build software",
-		"usage-level": null
+		"description": "c and c++ build software"
 	},
 	{
 		"name": "Clang",
 		"url": "https://clang.llvm.org/",
 		"category": "development", 
-		"description": "c compiler",
-		"usage-level": null
+		"description": "c compiler"
 	},
 	{
 		"name": "MSVC",
 		"url": "https://learn.microsoft.com/en-us/cpp/?view=msvc-170",
 		"category": "development", 
-		"description": "microsoft c and c++ compiler",
-		"usage-level": null
+		"description": "microsoft c and c++ compiler"
 	},
 	{
 		"name": "Perl",
 		"url": "https://www.perl.org/",
 		"category": "development", 
-		"description": "high level interpreted programming language",
-		"usage-level": null
+		"description": "high level interpreted programming language"
 	},
 	{
 		"name": "Strawberry perl",
 		"url": "https://strawberryperl.com/",
 		"category": "development", 
-		"description": "distribution of perl",
-		"usage-level": null
+		"description": "distribution of perl"
 	},
 	{
 		"name": "JavaScript",
 		"url": null,
 		"category": "development", 
-		"description": "high level interpreted programming language",
-		"usage-level": null
+		"description": "high level interpreted programming language"
 	},
 	{
 		"name": "Node.js",
 		"url": "https://nodejs.org/en",
 		"category": "development", 
-		"description": "javascript runtime environment",
-		"usage-level": null
+		"description": "javascript runtime environment"
+		
 	},
 	{
 		"name": "LaTeX",
 		"url": "https://www.latex-project.org/",
 		"category": "development", 
-		"description": "typesetting system",
-		"usage-level": null
+		"description": "typesetting system"
 	},
 	{
 		"name": "MiKTeX",
 		"url": "https://miktex.org/",
 		"category": "development", 
-		"description": "distribution of latex",
-		"usage-level": null
+		"description": "distribution of latex"
 	},
 	{
 		"name": "Clink",
@@ -437,70 +423,72 @@
 		"name": "WinGet",
 		"url": null,
 		"category": "utilities", 
-		"description": "windows package manager",
-		"usage-level": null
+		"description": "windows package manager"
 	},
 	{
 		"name": "AMD Drivers",
 		"url": null,
 		"category": "system information & configuration", 
-		"description": "set of amd drivers",
-		"usage-level": null
+		"description": "set of amd drivers"
 	},
 	{
 		"name": "NVIDIA Drivers",
 		"url": null,
 		"category": "system information & configuration", 
-		"description": "set of nvidia drivers",
-		"usage-level": null
+		"description": "set of nvidia drivers"
 	},
 	{
 		"name": "Caffeine",
 		"url": "https://www.zhornsoftware.co.uk/caffeine/",
 		"category": "utilities", 
-		"description": "keep computer awake utility",
-		"usage-level": null
+		"description": "keep computer awake utility"
 	},
 	{
 		"name": "Rufus",
 		"url": "https://rufus.ie/en/",
 		"category": "utilities", 
-		"description": "utility for creating bootable usb drives",
-		"usage-level": null
+		"description": "utility for creating bootable usb drives"
 	},
 	{
 		"name": "CCleaner",
 		"url": "https://www.ccleaner.com/",
 		"category": "utilities", 
-		"description": "system cleaning utility",
-		"usage-level": null
+		"description": "system cleaning utility"
 	},
 	{
 		"name": "Kindle Comic Converter",
 		"url": "https://github.com/ciromattia/kcc",
 		"category": "utilities", 
-		"description": "utility for converting manga for kindle",
-		"usage-level": null
+		"description": "utility for converting manga for kindle"
 	},
 	{
 		"name": "ZUOYA GMK67 Keyboard Driver",
 		"url": "https://gist.github.com/Joao-Peterson/f70257a08c6c2ba1dc353954bef9fe65",
 		"category": "system information & configuration",
-		"description": "driver for my zuoya gmk67 keyboard",
-		"usage-level": null
+		"description": "driver for my zuoya gmk67 keyboard"
 	},
 	{
 		"name": "AutoHotkey",
 		"url": "https://www.autohotkey.com/",
 		"category": "utilities",
-		"description": "keyboard shortcuts utility",
-		"usage-level": null
+		"description": "keyboard shortcuts utility"
 	},
 	{
 		"name": "FFmpeg",
 		"url": "https://www.ffmpeg.org/",
 		"category": "utilities",
-		"description": "terminal tool for media conversions",
-		"usage-level": null
+		"description": "terminal tool for media conversions"
+	},
+	{
+		"name": "iTunes",
+		"url": "https://www.apple.com/itunes/",
+		"category": "utilities",
+		"description": "itunes client for windows used for managing files and media with apple devices"
+	},
+	{
+		"draw": "draw.io",
+		"url": "https://www.drawio.com/",
+		"category": "utilities",
+		"description": "diagrams, flowcharts, and graphs drawing tool"
 	}
 ]
