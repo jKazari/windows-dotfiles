@@ -495,5 +495,12 @@
 		"category": "utilities",
 		"description": "keyboard shortcuts utility",
 		"usage-level": null
+	},
+	{
+		"name": "FFmpeg",
+		"url": "https://www.ffmpeg.org/",
+		"category": "utilities",
+		"description": "terminal tool for media conversions",
+		"usage-level": null
 	}
 ]
