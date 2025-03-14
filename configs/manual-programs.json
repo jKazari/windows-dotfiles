@@ -216,6 +216,12 @@
 		"description": "high level scripting programming language"
 	},
 	{
+		"name": "R",
+		"url": "https://www.r-project.org/",
+		"category": "research", 
+		"description": "statistical computing and data analysis programming language"
+	},
+	{
 		"name": "Java",
 		"url": "https://www.java.com/en/",
 		"category": "development", 
@@ -291,13 +297,13 @@
 	{
 		"name": "LaTeX",
 		"url": "https://www.latex-project.org/",
-		"category": "development", 
+		"category": "research", 
 		"description": "typesetting system"
 	},
 	{
 		"name": "MiKTeX",
 		"url": "https://miktex.org/",
-		"category": "development", 
+		"category": "research", 
 		"description": "distribution of latex"
 	},
 	{
@@ -490,5 +496,29 @@
 		"url": "https://www.drawio.com/",
 		"category": "utilities",
 		"description": "diagrams, flowcharts, and graphs drawing tool"
+	},
+	{
+		"draw": "ImageMagick",
+		"url": "https://imagemagick.org/index.php",
+		"category": "utilities",
+		"description": "image editing and manipulation utility"
+	},
+	{
+		"draw": "NanaZip",
+		"url": "https://github.com/M2Team/NanaZip",
+		"category": "utilities",
+		"description": "file archiver utility, 7-Zip modern alternative"
+	},
+	{
+		"draw": "Mathematica",
+		"url": "https://github.com/thedeepdeepsky/mathematica_keygen/",
+		"category": "research",
+		"description": "symbolic computation software"
+	},
+	{
+		"draw": "Bulk Rename Utility",
+		"url": "https://www.bulkrenameutility.co.uk/Whatsnew.php",
+		"category": "utilities",
+		"description": "utility for bulk renaming files"
 	}
 ]
