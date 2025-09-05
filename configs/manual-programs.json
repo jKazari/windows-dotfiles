@@ -1,12 +1,5 @@
 [
 	{
-		"name": "Brave",
-		"url": "https://brave.com/",
-		"category": "browsers",
-		"description": "browser",
-		"usage-level": 10
-	},
-	{
 		"name": "Spotify",
 		"url": "https://open.spotify.com/",
 		"category": "multimedia",
@@ -492,33 +485,93 @@
 		"description": "itunes client for windows used for managing files and media with apple devices"
 	},
 	{
-		"draw": "draw.io",
+		"name": "draw.io",
 		"url": "https://www.drawio.com/",
 		"category": "utilities",
 		"description": "diagrams, flowcharts, and graphs drawing tool"
 	},
 	{
-		"draw": "ImageMagick",
+		"name": "ImageMagick",
 		"url": "https://imagemagick.org/index.php",
 		"category": "utilities",
 		"description": "image editing and manipulation utility"
 	},
 	{
-		"draw": "NanaZip",
+		"name": "NanaZip",
 		"url": "https://github.com/M2Team/NanaZip",
 		"category": "utilities",
 		"description": "file archiver utility, 7-Zip modern alternative"
 	},
 	{
-		"draw": "Mathematica",
+		"name": "Mathematica",
 		"url": "https://github.com/thedeepdeepsky/mathematica_keygen/",
 		"category": "research",
 		"description": "symbolic computation software"
 	},
 	{
-		"draw": "Bulk Rename Utility",
+		"name": "Bulk Rename Utility",
 		"url": "https://www.bulkrenameutility.co.uk/Whatsnew.php",
 		"category": "utilities",
 		"description": "utility for bulk renaming files"
+	},
+	{
+		"name": "Notion",
+		"url": "https://www.notion.com/desktop",
+		"category": "knowledge management",
+		"description": ""
+	},
+	{
+		"name": "Zen Browser",
+		"url": "https://zen-browser.app/",
+		"category": "browsers",
+		"description": "minimalistic browser"
+	},
+	{
+		"name": "Zotero",
+		"url": "https://www.zotero.org/",
+		"category": "research",
+		"description": "reference management software"
+	},
+	{
+		"name": "JOSM",
+		"url": "https://josm.openstreetmap.de/",
+		"category": "",
+		"description": "editor for open street map"
+	},
+	{
+		"name": "Typst",
+		"url": "https://typst.app/open-source/#download",
+		"category": "research",
+		"description": "typesetting and programming language"
+	},
+	{
+		"name": "MagicaVoxel",
+		"url": "https://ephtracy.github.io/",
+		"category": "multimedia",
+		"description": "voxel art editor"
+	},
+	{
+		"name": "Vencord",
+		"url": "https://vencord.dev/",
+		"category": "communication",
+		"description": "discord client"
+	},
+	{
+		"name": "Messenger",
+		"url": "https://www.messenger.com/",
+		"category": "communication",
+		"description": "facebook messenger webapp using firefox pwa"
+	},
+	{
+		"name": "RBTray",
+		"url": "https://rbtray.sourceforge.net/",
+		"category": "utilities",
+		"description": "minimizing to systray util"
+	},
+	{
+		"name": "Caffeine",
+		"url": "https://www.zhornsoftware.co.uk/caffeine/",
+		"category": "utilities",
+		"description": "computer lock or sleep prevention util"
 	}
 ]
