@@ -573,5 +573,23 @@
 		"url": "https://www.zhornsoftware.co.uk/caffeine/",
 		"category": "utilities",
 		"description": "computer lock or sleep prevention util"
+	},
+	{
+		"name": "Actual",
+		"url": "https://actualbudget.org/",
+		"category": "knowledge management",
+		"description": "budgeting software"
+	},
+	{
+		"name": "Logitech G Hub",
+		"url": "https://www.logitechg.com/pl-pl/innovation/g-hub.html",
+		"category": "system information & configuration",
+		"description": "hardware configuration software"
+	},
+	{
+		"name": "Jellyfin",
+		"url": "https://jellyfin.org/",
+		"category": "multimedia",
+		"description": "media management server"
 	}
 ]
