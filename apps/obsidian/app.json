@@ -29,7 +29,6 @@
   "vimMode": false,
   "showUnsupportedFiles": true,
   "autoPairBrackets": true,
-  "showRibbon": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",

@@ -17,5 +17,8 @@
   "callout-manager",
   "calendar",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "math-in-callout",
+  "inline-math",
+  "code-styler"
 ]
