@@ -133,6 +133,21 @@
     false,
     300
   ],
+  "cover_grid_background": {
+    "dark": [
+      45,
+      45,
+      45
+    ],
+    "dark_texture": null,
+    "light": [
+      80,
+      80,
+      80
+    ],
+    "light_texture": null,
+    "migrated": true
+  },
   "custom_colors_for_color_dialog": [
     [
       255,
@@ -697,7 +712,7 @@
     "__value__": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAr4AAAAFAQEBAAAAAAAAAAAAAAAAAGT/////AAAAhAAAAAAAAAAFAAABLgAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAAZAAAAAEAAAAAAAAD6AAAAAAAAAAAAA=="
   },
   "library_usage_stats": {
-    "C:/Users/zacha/Calibre Library": 40
+    "C:/Users/zacha/Calibre Library": 42
   },
   "main_window_central_widget_state": {
     "layout": "wide",
@@ -812,5 +827,5 @@
     true,
     200
   ],
-  "windows_register_default_programs": "7.18.0"
+  "windows_register_default_programs": "8.16.2"
 }
