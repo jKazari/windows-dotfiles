@@ -9,9 +9,10 @@
     "enabled": true
   },
   "weekly": {
-    "format": "",
-    "template": "",
-    "folder": ""
+    "format": "gggg-[Week]-ww",
+    "template": "Templates/weekly.md",
+    "folder": "Weekly",
+    "enabled": true
   },
   "monthly": {
     "format": "",

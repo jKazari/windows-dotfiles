@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "type": "search",
+      "ctime": 1728513343949,
+      "query": "tag:#note",
+      "title": "Notes"
+    },
+    {
+      "type": "search",
+      "ctime": 1728513366309,
+      "query": "tag:#todo",
+      "title": "Todo's"
+    },
+    {
+      "type": "search",
+      "ctime": 1728513395622,
+      "query": "tag:#idea",
+      "title": "Ideas"
+    },
+    {
+      "type": "search",
+      "ctime": 1728513405624,
+      "query": "tag:#link",
+      "title": "Links"
+    },
+    {
+      "type": "search",
+      "ctime": 1728513379482,
+      "query": "tag:#check-out",
+      "title": "Check out's"
+    },
+    {
+      "type": "group",
+      "ctime": 1728513468398,
+      "items": [
+        {
+          "type": "search",
+          "ctime": 1728513440353,
+          "query": "tag:#game",
+          "title": "Games"
+        },
+        {
+          "type": "search",
+          "ctime": 1728513449559,
+          "query": "tag:#movie",
+          "title": "Movies"
+        },
+        {
+          "type": "search",
+          "ctime": 1728513413853,
+          "query": "tag:#book",
+          "title": "Books"
+        }
+      ],
+      "title": "Media"
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 {
   "accentColor": "#8ac0ff",
   "textFontFamily": "",
-  "cssTheme": "Minimal",
+  "cssTheme": "Primary",
   "theme": "obsidian",
   "showViewHeader": true,
   "enabledCssSnippets": [
     "big-latex"
-  ]
+  ],
+  "showRibbon": true
 }
