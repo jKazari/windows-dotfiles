@@ -113,8 +113,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -183,8 +183,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -197,7 +197,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "command-palette:Open command palette": false,
       "switcher:Open quick switcher": false,
@@ -206,21 +205,19 @@
       "templates:Insert template": true,
       "audio-recorder:Start/stop recording": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "vim-toggle:Toggle Vim Mode": false,
       "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "periodic-notes:Open today": false
+      "vim-toggle:Toggle Vim Mode": false
     }
   },
   "active": "b3397aeaf6f180c1",
   "lastOpenFiles": [
-    "Daily/2026-01-05 Mon.md",
+    "Daily/2026-01-07 Wed.md",
     "Daily/2026-01-06 Tue.md",
-    "Attachments/NFM - Constructor Creator - documentation V1.docx",
-    "Attachments/2020-04-17 Ballistic DataBase Road Map 2020.pptx",
-    "Attachments/DataCompleteness.xlsx",
-    "latex-snippets-variables.json",
-    "latex-snippets.js",
+    "Daily/2026-01-05 Mon.md",
     "Quick captures/2026-01-06.md",
     "Daily/2026-01-04 Sun.md",
     "Daily/2026-01-03 Sat.md",
@@ -257,8 +254,13 @@
     "Attachments/Pasted image 20250521014144.png",
     "University/Semestr 4/Prawdopodobieństwo",
     "University/Semestr 4",
+    "latex-snippets-variables.json",
     "latex-snippets-variables.js",
     "New Text Document.txt",
+    "latex-snippets.js",
+    "latex_snippets.js",
+    "New folder",
+    "Attachments/Recording 20240802165047.m4a",
     "NBS Wiki/Attachments/Entity Relation Diagram.canvas",
     "NBS Wiki/Attachments/Entity Relation Diagram 1.canvas",
     "03 Job/Mindmap.canvas",
