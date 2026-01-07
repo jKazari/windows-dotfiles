@@ -1,0 +1,7 @@
+{
+	"screen-and-sleep": {
+		"when-plugged-in-turn-off-my-screen-after": "Never",
+		"when-plugged-in-put-my-device-to-sleep-after": "Never"
+	},
+	"power-plan": "High performance"
+}

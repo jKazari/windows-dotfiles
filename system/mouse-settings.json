@@ -1,0 +1,13 @@
+{
+	"primary-mouse-button": "Left",
+	"mouse-pointer-speed": 10,
+	"roll-the-mouse-wheel-to-scroll": "Multiple lines at a time",
+	"lines-to-scroll-at-a-time": 3,
+	"scroll-inactive-windows-when-hovering-over-them": true,
+	"sensitivity": {
+		"stage-1": 800,
+		"stage-2": 1000,
+		"stage-3": 1200,
+		"stage-4": 16000
+	}
+}

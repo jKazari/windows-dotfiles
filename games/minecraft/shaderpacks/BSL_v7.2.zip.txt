@@ -1,4 +1,0 @@
-#Wed Sep 30 21:43:40 CEST 2020
-BLOOM=false
-DESATURATION=false
-LIGHT_SHAFT=false

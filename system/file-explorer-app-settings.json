@@ -1,0 +1,91 @@
+{
+	"sorting": {
+		"sort-by": "Name",
+		"how": "Ascending",
+		"group-by": null
+	},
+	"general-options": {
+		"open-file-explorer-to": "This PC",
+		"browse-folders": "Open each folder in the same window",
+		"click-items": "Double-click to open an item",
+		"show-recently-used-files": false,
+		"show-frequently-used-folders": false,
+		"show-recommended-section": false,
+		"include-account-based-insights": false
+	},
+	"view": {
+		"type": "Details",
+		"navigation-pane": "Preview pane",
+		"show": {
+			"navigation-pane": true,
+			"compact-view": true,
+			"item-checkboxes": false,
+			"file-name-extensions": true,
+			"hidden-files": true
+		},
+		"advanced-settings": {
+			"always-show-icons": false,
+			"compact-view": true,
+			"display-file-icon": true,
+			"display-file-size": true,
+			"display-full-path": true,
+			"show-hidden-files-folders-and-drives": true,
+			"hide-empty-drives": false,
+			"hide-extensions-for-known-file-types": false,
+			"hide-folder-merge-conflicts": true,
+			"hide-protected-operating-system-files": true,
+			"launch-folder-windows-in-separate-process": false,
+			"restore-previous-folder-windows-at-logon": false,
+			"show-drive-letters": true,
+			"show-encrypted-ntfs-files": false,
+			"show-popup-description-for-folder-and-desktop-items": true,
+			"show-preview-handlers-in-preview-pane": true,
+			"show-status-bar": true,
+			"show-sync-provider-notifications": true,
+			"use-checkboxes-to-select-items": false,
+			"use-sharing-wizard": true,
+			"navigation-pane": {
+				"always-show-availability-status": false,
+				"expand-to-open-folder": false,
+				"show-all-folders": false,
+				"show-libraries": false,
+				"show-network": false,
+				"show-this-pc": true
+			}
+		}
+	},
+	"quick-access-pins": [
+		{
+			"name": "Desktop",
+			"path": "C:\\Users\\zacha\\Desktop"
+		},
+		{
+			"name": "Downloads",
+			"path": "C:\\Users\\zacha\\Downloads"
+		},
+		{
+			"name": "zacha",
+			"path": "C:\\Users\\zacha"
+		},
+		{
+			"name": "Home",
+			"path": "G:\\My Drive\\Home"
+		},
+		{
+			"name": "15 Mathematics 3rd sem",
+			"path": "G:\\My Drive\\Home\\10 University\\15 Mathematics 3rd sem"
+		},
+		{
+			"name": "UserSkins",
+			"path": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\War Thunder\\UserSkins"
+		},
+		{
+			"name": "Repositories",
+			"path": "C:\\Repositories"
+		},
+		{
+			"name": "Media",
+			"path": "D:\\Media"
+		}
+	]
+}

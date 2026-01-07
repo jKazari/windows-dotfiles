@@ -1,0 +1,170 @@
+{
+  "python.terminal.executeInFileDir": true,
+  "workbench.editorAssociations": {
+    "*.ipynb": "jupyter.notebook.ipynb",
+    "*.pdf": "analyticsignal.preview-pdf",
+    "*.csv": "gc-excelviewer-csv-editor"
+  },
+  "editor.tabCompletion": "onlySnippets",
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "security.workspace.trust.untrustedFiles": "open",
+  "git.autofetch": true,
+  "terminal.integrated.fontFamily": "monospace",
+  "editor.codeLensFontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.insertSpaces": false,
+  "editor.fontFamily": "'Cascadia Code'",
+  "editor.fontFace": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.inlayHints.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "explorer.confirmDelete": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.inlineSuggest.enabled": true,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "git.confirmSync": false,
+  "explorer.confirmDragAndDrop": false,
+  "php.validate.executablePath": "",
+  "code-runner.runInTerminal": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "window.titleBarStyle": "custom",
+  "markdown.marp.enableHtml": true,
+  "markdown.marp.mathTypesetting": "katex",
+  "markdown.marp.exportType": "html",
+  "editor.unicodeHighlight.allowedCharacters": {
+    "ś": true
+  },
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "workbench.statusBar.visible": false,
+  "editor.tokenColorCustomizations": {
+    "[Kitty VSCode Theme]": {
+        "textMateRules": [
+          {
+            "scope": [
+              "text.tex.latex"
+            ],
+            "settings": {
+              "foreground": "#ffffff"
+            }
+          },
+          {
+            "scope": [
+              "support.function.be.latex",
+              "support.function.general.tex",
+              "support.function.section.latex",
+              "support.function.textit.latex",
+              "support.function.texttt.latex",
+              "support.function.textbf.latex",
+              "support.function.textsc.latex",
+              "support.function.url.latex",
+              "support.function.footnote.latex"
+            ],
+            "settings": {
+              "foreground": "#89DCEB"
+            }
+          },
+          {
+            "scope": [
+              "variable.parameter.function.latex",
+              "punctuation.math.operator.latex"
+            ],
+            "settings": {
+              "foreground": "#F8BD96"
+            }
+          },
+          {
+            "scope": [
+              "support.class.math.block.tex",
+              "support.class.math.block.environment.latex"
+            ],
+            "settings": {
+              "foreground": "#FAE3B0"
+            }
+          },
+          {
+            "scope": [
+              "constant.other.math.tex",
+              "constant.other.general.math.tex",
+              "constant.character.escape.tex",
+              "punctuation.definition.keyword.tex",
+              "punctuation.definition.constant.math.tex",
+              "constant.character.math.tex"
+            ],
+            "settings": {
+              "foreground": "#F28FAD"
+            }
+          }
+        ],
+    }
+  },
+  "cmake.additionalCompilerSearchDirs": [
+    "C:/msys64/mingw32/bin",
+    "C:/msys64/mingw64/bin",
+    "C:/msys64/clang32/bin",
+    "C:/msys64/clang64/bin",
+    "C:/msys64/clangarm64/bin",
+    "C:/msys64/ucrt64/bin"
+  ],
+  "git.openRepositoryInParentFolders": "always",
+  "git.enableSmartCommit": true,
+  "editor.rulers": [
+    
+  ],
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "nbs-database",
+      "database": "nbs",
+      "username": "root"
+    }
+  ],
+  "mssql.connections": [
+    {
+      "server": "orga9b1f99a.crm4.dynamics.com",
+      "database": "orga9b1f99a",
+      "authenticationType": "AzureMFA",
+      "accountId": "73233cab-8af8-472e-a539-f670cfd9d50d.6013a954-a3ca-49c2-b3e2-288264752369",
+      "tenantId": "6013a954-a3ca-49c2-b3e2-288264752369",
+      "user": "Zachariasz Jażdżewski - zachariasz@nfm.no",
+      "email": "zachariasz@nfm.no",
+      "azureAccountToken": "",
+      "expiresOn": 1722441851,
+      "password": "",
+      "connectTimeout": 15,
+      "commandTimeout": 30,
+      "applicationName": "vscode-mssql"
+    }
+  ],
+  "editor.hover.enabled": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": true,
+  "notebook.cellToolbarVisibility": "hover",
+  "python.languageServer": "Pylance",
+  "discord.removeDetails": true,
+  "workbench.colorTheme": "Celestial",
+  "notebook.consolidatedRunButton": true,
+  "notebook.compactView": false,
+  "markdown-preview-enhanced.previewTheme": "atom-dark.css",
+  "markdown-preview-enhanced.codeBlockTheme": "atom-dark.css",
+  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "workbench.activityBar.location": "top"
+}

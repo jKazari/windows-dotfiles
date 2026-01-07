@@ -1,0 +1,268 @@
+{
+  "main": {
+    "id": "af8be3a5d8177ac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc59103d5a58912",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08b3b41c4fc5570a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Master list"
+            }
+          }
+        ]
+      },
+      {
+        "id": "95b935988c5c32a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3397aeaf6f180c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-01-06 Tue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-06 Tue"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8a0ff1d17b8b9436",
+    "type": "split",
+    "children": [
+      {
+        "id": "531556d8b0192dd2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0708c6cd4d9bf963",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "87bd62e7302bb07f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "181f0f2659fced18",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6c9790911159fdc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "a7d35f71ecf2c50a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "30ca5af6c1977be1",
+    "type": "split",
+    "children": [
+      {
+        "id": "98cda3d283f0dcde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91b63d33085fc373",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "University/Semestr 3/Równania różniczkowe/Wykład 02.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wykład 02"
+            }
+          },
+          {
+            "id": "32ab4ca341bdc6c7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "University/Semestr 3/Równania różniczkowe/Wykład 02.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wykład 02"
+            }
+          },
+          {
+            "id": "da9f945fe834d0ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "University/Semestr 3/Równania różniczkowe/Wykład 02.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wykład 02"
+            }
+          },
+          {
+            "id": "2553291402b26bcd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "vim-toggle:Toggle Vim Mode": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b3397aeaf6f180c1",
+  "lastOpenFiles": [
+    "Daily/2026-01-05 Mon.md",
+    "Daily/2026-01-06 Tue.md",
+    "Attachments/NFM - Constructor Creator - documentation V1.docx",
+    "Attachments/2020-04-17 Ballistic DataBase Road Map 2020.pptx",
+    "Attachments/DataCompleteness.xlsx",
+    "latex-snippets-variables.json",
+    "latex-snippets.js",
+    "Quick captures/2026-01-06.md",
+    "Daily/2026-01-04 Sun.md",
+    "Daily/2026-01-03 Sat.md",
+    "Master list.md",
+    "Daily/2026-01-02 Fri.md",
+    "Daily/2026-01-01 Thu.md",
+    "Daily/2025-12-31 Wed.md",
+    "Daily/2025-12-30 Tue.md",
+    "Daily/2025-12-29 Mon.md",
+    "Daily/2025-12-28 Sun.md",
+    "Daily/2025-12-27 Sat.md",
+    "Daily/2025-12-26 Fri.md",
+    "Daily/2025-12-25 Thu.md",
+    "Daily/2025-12-24 Wed.md",
+    "Daily/2025-12-23 Tue.md",
+    "Daily/2025-12-22 Mon.md",
+    "Daily/2025-12-21 Sun.md",
+    "Daily/2025-12-20 Sat.md",
+    "Daily/2025-12-19 Fri.md",
+    "Daily/2025-12-18 Thu.md",
+    "Daily/2025-12-17 Wed.md",
+    "Daily/2025-12-16 Tue.md",
+    "Daily/2025-12-12 Fri.md",
+    "Attachments/Pasted image 20251015020618.png",
+    "Attachments/~$2020-04-17 Ballistic DataBase Road Map 2020.pptx",
+    "Attachments/Pasted image 20250720202148.png",
+    "Attachments/Pasted image 20250720202048.png",
+    "Attachments/Pasted image 20250613165754.png",
+    "Attachments/Pasted image 20250613165744.png",
+    "Attachments/Pasted image 20250613165736.png",
+    "Attachments/Pasted image 20250613165720.png",
+    "Attachments/Pasted image 20250521024422.png",
+    "Attachments/Pasted image 20250521014156.png",
+    "Attachments/Pasted image 20250521014144.png",
+    "University/Semestr 4/Prawdopodobieństwo",
+    "University/Semestr 4",
+    "latex-snippets-variables.js",
+    "New Text Document.txt",
+    "NBS Wiki/Attachments/Entity Relation Diagram.canvas",
+    "NBS Wiki/Attachments/Entity Relation Diagram 1.canvas",
+    "03 Job/Mindmap.canvas",
+    "03 Job/Project overview.canvas",
+    "Timeline.canvas"
+  ]
+}

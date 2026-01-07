@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "textFontFamily": "",
+  "cssTheme": "Primary",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "big-latex"
+  ],
+  "showRibbon": true
+}
